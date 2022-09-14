@@ -17,7 +17,7 @@ ___
 💡3 Things I learned today:
 1. 
 2. 
-3. 
+3. rgre
 
 👁️Two things I would like to know more about:
 1. 
