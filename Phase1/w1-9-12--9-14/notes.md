@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[14]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. rgre
+1. Forking and cloning a repository
+2. How to push any changes made to a repository
+3. Using GitBash and the Command Line to make a directory
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Making my own repository
+2. Getting more comfortable with the Command Line
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Doing other tasks with Git Bash and Command Line
 
 
 ___
