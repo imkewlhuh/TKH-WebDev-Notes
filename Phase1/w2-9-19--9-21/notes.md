@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [9]/[20] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Git init to initialize a repo
+2. Git add . to add all changes to the staging area
+3. Git commit to commit the changes and prepare to push
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Branching
+2. Git
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Git commands
 
 ___
 
