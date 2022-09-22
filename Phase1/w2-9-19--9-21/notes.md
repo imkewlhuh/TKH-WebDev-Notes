@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [09]/[21]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. nested for loops
+2. creating a branch
+3. merging a branch with changes
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Nested loops
+2. Branch management
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Managing a branch in the terminal
  
 
