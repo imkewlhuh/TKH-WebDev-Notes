@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [09]/[27] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Flex containers and flex items
+2. Justify content is on the main axis while align is vertical
+3. Flex shorthand for grow, shrink, basis
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using different flex properties
+2. Using multiple flex containers together
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Creating layouts with flex
 
 ___
 
