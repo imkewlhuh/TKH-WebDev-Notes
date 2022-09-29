@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [09]/[28]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Nesting flex containers
+2. Aligning items with flex box
+3. Using the flex-wrap property
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Flexbox properties
+2. Creating a wireframe
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Turning a wireframe or website layout into code
  
 
