@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [4]
+## [10]/[03] - [10]/[05]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[03]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. .slice returns part of string between parameters
+2. Adding numbers to strings outputs a string
+3. null is classified as an object 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. More methods to interact with arrays
+2. Using javascript in the browser
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Flexbox wrapping
 
 
 ___
