@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[04] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Nesting loops
+2. Chaining ternary loops
+3. Chaining prompts
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Ternary syntax
+2. Arrow syntax
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nesting multiple loops
 
 ___
 
