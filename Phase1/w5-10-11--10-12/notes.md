@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[12] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. The DOM
+2. Targeting elements in the DOM
+3. Creating elements in the DOM
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Manipulating the DOM
+2. EventListeners
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Creating a grid layout
 
 ___
 
