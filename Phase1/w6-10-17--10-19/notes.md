@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [6]
+## [10]/[17] - [10]/[19]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[17]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Modifying elements with DOM methods
+2. Modifying objects
+3. Looking up key value pairs
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Working with objects
+2. Manipulating the DOM
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Working with objects
 
 
 ___
