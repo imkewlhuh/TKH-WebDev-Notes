@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[18] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Nested objects
+2. Testing objects for properties
+3. Manipulating complex objects
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Working with nested objects
+2. Creating complex objects
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nesting objects and arrays within each other
 
 ___
 
