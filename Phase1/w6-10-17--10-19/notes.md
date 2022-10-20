@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [10]/[19]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Nesting for loops in arrays
+2. Do While loop
+3. Recursion with functions
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Recursive uses
+2. Classes
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Using classes to create multiple objects
  
 
