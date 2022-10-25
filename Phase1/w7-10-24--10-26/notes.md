@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [7]
+## [10]/[24] - [10]/[26]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[24]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Inheritance
+2. Parent classes
+3. Extending classes
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Creating classes and objects in classes
+2. Methods in classes
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Using classes in projects
 
 
 ___
