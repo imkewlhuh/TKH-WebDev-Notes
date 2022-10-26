@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[25] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Creating parent classes
+2. Creating methods in classes
+3. Collaborating on code
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Inheritance
+2. super()
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Complex classes
 
 ___
 
