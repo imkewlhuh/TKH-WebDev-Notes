@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [8]
+## [10]/[31] - [11]/[02]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[31]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Nesting objects
+2. Objects in arrays
+3. Switch statements
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Switch statement uses
+2. break; vs return
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. addEventListener
 
 
 ___
