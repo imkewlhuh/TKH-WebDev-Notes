@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[01] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. map()
+2. addEventListener
+3. .split()
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. addEventListener uses
+2. Methods to use on arrays
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Manipulating the DOM
 
 ___
 
