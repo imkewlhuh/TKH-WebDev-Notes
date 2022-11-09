@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[08] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Recurring functions
+2. find() method
+3. functionName()() to use inner functions
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Stack
+2. Modules
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Recurring uses
 
 ___
 
