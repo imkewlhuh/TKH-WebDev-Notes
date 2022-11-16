@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[15] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Setting up Vite
+2. Installing and using axios
+3. Calling data from an API
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Axios
+2. Other modules
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Different ways to use axios
 
 ___
 
