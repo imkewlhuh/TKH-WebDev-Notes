@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[22] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. .find()
+2. .every()
+3. Currying
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using currying in a project
+2. Working with APIs
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. npm
 
 ___
 
