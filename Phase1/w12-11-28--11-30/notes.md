@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [11]/[30]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Component props
+2. Conditional components
+3. Ternary operator
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. React
+2. VDOM
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Building React projects
  
 
